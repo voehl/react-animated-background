@@ -1,6 +1,6 @@
 {
   "name": "react-animated-background",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "build/index.js",
   "scripts": {
@@ -12,6 +12,7 @@
     ".babelrc",
     "webpack.config.js",
     "src/index.js",
+    "src/style.js",
     "build/index.js"
   ],
   "repository": {
